@@ -7,8 +7,7 @@ code中含有基于`日服2.24.1`制作的`libunity.so`文件, 解决宝具卡�
 按下`Ctrl + F`搜索  
 ```
 set_targetFrame
-```
-  
+```  
 ![search](https://github.com/tsuasahi/FGOFPSUnlocker/raw/master/imgs/2.png)  
 得到结果  
 
