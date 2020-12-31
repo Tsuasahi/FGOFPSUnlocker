@@ -1,6 +1,6 @@
 # 修改二进制文件
 更新自 [nishuoshenme/FGOFPSUnlocker](https://github.com/nishuoshenme/FGOFPSUnlocker)  
-日服为基于`2.24.1`制作的`libunity.so`文件, 解决宝具卡白屏问题
+日服为基于`2.24.1`制作的`libunity.so`文件, 解决宝具卡白屏问题  
 国服为基于`2.17.0`制作的`libunity.so`文件  
 ## armeabi-v7a
 使用`IDA Pro`打开`libunity.so`, 等待分析结束后按下`Shift + F12`打开字符串列表  
